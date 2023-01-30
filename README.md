@@ -1,1 +1,1 @@
-# Feature-Extraction-and-Character-Recognition-using-Hu-Moments
+# Feature-Extraction-and-Character-Recognition-using-Hu-Moment
